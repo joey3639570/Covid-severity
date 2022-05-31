@@ -1,0 +1,10 @@
+flask
+pytorch
+werkzeug
+matplotlib
+numpy
+torch
+torchvision
+scikit-image
+torchxrayvision 
+pickle
